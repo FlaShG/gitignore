@@ -1,0 +1,8 @@
+# Project Sessions
+/Sessions/*
+/ProjectInfo.lck
+
+# Thumbnail database
+# Is redundant, gets changed only after closing Articy:Draft
+# and always causes conflicts.
+/Assets.sqlite
